@@ -1,7 +1,7 @@
 - 👋 Hi, Thanks for stopping by my Github page.
-- My name is Emma Liu. I’m interested in applying Machine Learning and advance analytics to solve real-life problems using data. I will update my repos to share interesting projects which I have done or useful learnings materials.
-- 🌱 I’m currently learning NLP, clustering, XGBoost and many other Machine Learning algorithms using Python, Microsoft Azure Cloud, and Latte Art☕
-- 💞️ I’m looking to collaborate on projects and connect with people with similar inspritions and passionate about Data Science
+- I am a data scientist with a passion for solving complex problems and a drive to stay at the forefront of the latest industry trends. My expertise in data analysis, machine learning, and statistical modeling allows me to uncover valuable insights and drive effective decision-making for organizations. I am constantly seeking out new challenges and opportunities to apply my skills and expand my knowledge. With a focus on delivering real-world solutions, I am dedicated to making a positive impact through data-driven approaches.
+- 🌱 I’m currently learning Deep Learning, NLP, XGBoost and many other Machine Learning algorithms using Python, Microsoft Azure Cloud, and 
+- 💞️ I’m looking to connect with people with similar inspritions and passionate in problem solving and Data Science.
 - 📫 Feel free to connect with me through LinkedIn: https://www.linkedin.com/in/emma-hongfan-liu/
 
 
